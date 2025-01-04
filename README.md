@@ -1,6 +1,3 @@
-# Test
-
-modificación 1
-modificacion 2
-modificacion 3
-modificacion 4
+# ¡Hola, soy Yael! 👋
+- 👨‍💻 Me especializo en desarrollo de software embebido.
+- 🌱 Actualmente aprendiendo git.
