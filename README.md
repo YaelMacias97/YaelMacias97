@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jairo Yael Macías Ramírez
+# 👋 Hi, I'm Yael Macías
 
 🎯 **Embedded Software Engineer** with over 5 years of experience in firmware development, embedded systems programming, and hardware design — especially within safety-critical environments such as **automotive** and **medical devices**.
 
